@@ -41,3 +41,18 @@ li a:hover{
   background: rgb(255, 255, 255);
   color: rgb(71, 250, 0);
 }
+.imgEstudo {
+    position: relative;
+    width: 300px;
+    height: 100px;
+    background: ;
+    top: 0px;
+    border: 100px;
+    border-color: rgb(255, 0, 234);
+    
+}
+#guaxinim {
+  position: absolute;
+width: 500px;
+left: 420px;
+}
